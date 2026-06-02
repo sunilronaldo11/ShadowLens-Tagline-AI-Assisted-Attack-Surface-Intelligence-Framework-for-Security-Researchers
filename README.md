@@ -1,0 +1,2 @@
+# ShadowLens-Tagline-AI-Assisted-Attack-Surface-Intelligence-Framework-for-Security-Researchers
+ShadowLens is a Python-based attack surface intelligence framework for ethical security assessments. It discovers assets, analyzes web technologies, evaluates security headers, inspects SSL/TLS configurations, maps infrastructure, and generates reports. Compatible with Kali Linux, Arch, Ubuntu, Debian, and Termux.
